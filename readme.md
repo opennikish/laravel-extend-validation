@@ -119,7 +119,7 @@ class Validator
 }
 ```
 
-You can copy this code or clone the repository. This repository contains this code in the 'Validation' directory with couple simple validation extensions.
+You can copy this code or clone the repository. This repository contains this code in the `Validation` directory with couple simple validation extensions.
 
 Thanks for reading!
 
